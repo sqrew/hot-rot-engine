@@ -248,13 +248,7 @@ PRIOR-ART.md is the Model T documentation for compost thermal harvesting.
 - Climate Action Reserve: https://climateactionreserve.org/how/protocols/waste/organic-waste-composting/
 
 * Reference
-
 Full technical documentation: [[file:PRIOR-ART.md][PRIOR-ART.md]]
-
 45 prior art claims established. Public domain. No one can patent this.
-
 ---
-
 /Pour tout le monde. Pour toujours./
-
-/The insulation became the product. The product became the point./
