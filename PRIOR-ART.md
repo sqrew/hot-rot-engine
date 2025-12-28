@@ -377,32 +377,32 @@ Organic waste in landfills decomposes anaerobically, producing methane (CH₄). 
 
 Composting diverts this waste to aerobic decomposition, which produces CO₂ instead of CH₄. The difference is creditable.
 
-| Metric | Value |
-|--------|-------|
-| CH₄ avoided per ton organic waste | ~50-100 kg |
-| CO₂e credit per ton diverted | 0.5-1.0 tons |
-| Credit value (@ $30-150/ton) | $15-150 per ton feedstock |
+| Metric                            | Value                     |
+|-----------------------------------|---------------------------|
+| CH₄ avoided per ton organic waste | ~50-100 kg                |
+| CO₂e credit per ton diverted      | 0.5-1.0 tons              |
+| Credit value (@ $30-150/ton)      | $15-150 per ton feedstock |
 
 **B. Soil Carbon Sequestration**
 
 Finished compost applied to soil creates stable humus that locks carbon for decades to centuries.
 
-| Metric | Value |
-|--------|-------|
-| Carbon retained per ton compost | ~200-400 kg |
-| Sequestration duration | 20-100+ years |
-| CO₂e credit per ton compost | 0.7-1.5 tons |
-| Credit value (@ $30-150/ton) | $20-225 per ton compost |
+| Metric                          | Value                   |
+|---------------------------------|-------------------------|
+| Carbon retained per ton compost | ~200-400 kg             |
+| Sequestration duration          | 20-100+ years           |
+| CO₂e credit per ton compost     | 0.7-1.5 tons            |
+| Credit value (@ $30-150/ton)    | $20-225 per ton compost |
 
 **C. Biochar Enhancement (Premium Credits)**
 
 Adding biochar to the compost blend creates **permanent** carbon sequestration (1000+ years). Biochar credits are among the highest-value carbon offsets.
 
-| Metric | Value |
-|--------|-------|
-| Biochar carbon stability | 1000+ years |
-| CO₂e credit per ton biochar | 2.5-3.0 tons |
-| Premium credit value | $100-200+ per ton biochar |
+| Metric                      | Value                     |
+|-----------------------------|---------------------------|
+| Biochar carbon stability    | 1000+ years               |
+| CO₂e credit per ton biochar | 2.5-3.0 tons              |
+| Premium credit value        | $100-200+ per ton biochar |
 
 **Note:** Biochar production requires a separate pyrolysis process, but integrates well with the Hot Rot Engine—excess woody material can be charred, then blended into final compost.
 
@@ -431,25 +431,25 @@ For small-scale operations, voluntary markets like Nori offer simplified verific
 
 **Single 50m³ pile (homestead scale):**
 
-| Revenue Stream | Low Est. | High Est. |
-|----------------|----------|-----------|
-| Compost sales | $2,500 | $3,000 |
-| Heat savings | $500 | $1,000 |
-| Electricity (ORC) | $500 | $2,500 |
-| Biogas | $200 | $500 |
-| Tipping fees | $500 | $2,000 |
-| Carbon credits | $300 | $4,500 |
-| **TOTAL** | **$4,500** | **$13,500/year** |
+| Revenue Stream    | Low Est.   | High Est.        |
+|-------------------|------------|------------------|
+| Compost sales     | $2,500     | $3,000           |
+| Heat savings      | $500       | $1,000           |
+| Electricity (ORC) | $500       | $2,500           |
+| Biogas            | $200       | $500             |
+| Tipping fees      | $500       | $2,000           |
+| Carbon credits    | $300       | $4,500           |
+| **TOTAL**         | **$4,500** | **$13,500/year** |
 
 **4-pile modular farm (200m³ total):**
 
-| Revenue Stream | Low Est. | High Est. |
-|----------------|----------|-----------|
-| Compost sales | $8,000 | $12,000 |
-| Heat/electricity | $4,000 | $10,000 |
-| Tipping fees | $2,000 | $8,000 |
-| Carbon credits | $1,200 | $18,000 |
-| **TOTAL** | **$15,200** | **$48,000/year** |
+| Revenue Stream   | Low Est.    | High Est.        |
+|------------------|-------------|------------------|
+| Compost sales    | $8,000      | $12,000          |
+| Heat/electricity | $4,000      | $10,000          |
+| Tipping fees     | $2,000      | $8,000           |
+| Carbon credits   | $1,200      | $18,000          |
+| **TOTAL**        | **$15,200** | **$48,000/year** |
 
 #### Strategic Considerations
 
@@ -475,11 +475,11 @@ Some jurisdictions have composting regulations. Check before accepting external 
 
 ### Compost Thermal Output
 
-| Pile Size | Heat Generation | Duration |
-|-----------|-----------------|----------|
-| 10 cubic meters | ~2-3 kW thermal | 6-12 months |
+| Pile Size                         | Heat Generation  | Duration     |
+|-----------------------------------|------------------|--------------|
+| 10 cubic meters                   | ~2-3 kW thermal  | 6-12 months  |
 | 50 cubic meters (Jean Pain scale) | ~8-12 kW thermal | 12-18 months |
-| 100+ cubic meters (municipal) | ~20+ kW thermal | 18-24 months |
+| 100+ cubic meters (municipal)     | ~20+ kW thermal  | 18-24 months |
 
 ### Ground Thermal Storage
 
@@ -495,11 +495,11 @@ Heat pump performance:
 
 ### Compost Product Value
 
-| Product Grade | Price per Cubic Yard |
-|---------------|---------------------|
-| Bulk compost | $30-50 |
-| Premium blend (soil-compost) | $40-60 |
-| Bagged retail | $80-120 equivalent |
+| Product Grade                | Price per Cubic Yard |
+|------------------------------|----------------------|
+| Bulk compost                 | $30-50               |
+| Premium blend (soil-compost) | $40-60               |
+| Bagged retail                | $80-120 equivalent   |
 
 ### Biogas Production
 
@@ -551,10 +551,10 @@ Standard thermophilic composting peaks at 60-70°C. But research has demonstrate
 
 **Impact on Hot Rot Engine efficiency:**
 
-| Configuration | Hot Side | Cold Side | ΔT | Carnot Limit |
-|---------------|----------|-----------|-----|--------------|
-| Standard pile | 65°C | 15°C | 50°C | 14.8% |
-| **Doped pile** | 90°C | 15°C | 75°C | **20.7%** |
+| Configuration  | Hot Side | Cold Side | ΔT   | Carnot Limit |
+|----------------|----------|-----------|------|--------------|
+| Standard pile  | 65°C     | 15°C      | 50°C | 14.8%        |
+| **Doped pile** | 90°C     | 15°C      | 75°C | **20.7%**    |
 
 That's **40% more theoretical efficiency** from the same organic matter.
 
@@ -562,13 +562,13 @@ That's **40% more theoretical efficiency** from the same organic matter.
 
 The key hyperthermophilic species for inoculation:
 
-| Organism | Active Range | Role |
-|----------|--------------|------|
-| *Thermus thermophilus* | 65-80°C | Primary heat generator, carbohydrate metabolism |
-| *Planifilum fulgidum* | 70-90°C | Hyperthermophilic specialist |
-| *Thermaerobacter spp.* | 70-85°C | High-temp organic decomposition |
-| *Geobacillus thermodenitrificans* | 60-70°C | Thermotolerant enzyme production |
-| *Bacillus* strains (specialized) | 55-80°C | Lignin/cellulose degradation |
+| Organism                          | Active Range | Role                                            |
+|-----------------------------------|--------------|-------------------------------------------------|
+| *Thermus thermophilus*            | 65-80°C      | Primary heat generator, carbohydrate metabolism |
+| *Planifilum fulgidum*             | 70-90°C      | Hyperthermophilic specialist                    |
+| *Thermaerobacter spp.*            | 70-85°C      | High-temp organic decomposition                 |
+| *Geobacillus thermodenitrificans* | 60-70°C      | Thermotolerant enzyme production                |
+| *Bacillus* strains (specialized)  | 55-80°C      | Lignin/cellulose degradation                    |
 
 These organisms work synergistically. Research shows inoculated piles reach peak temperature 2-3 days faster and maintain hyperthermophilic conditions for 7-9+ days.
 
@@ -597,13 +597,13 @@ These organisms work synergistically. Research shows inoculated piles reach peak
 
 The hyperthermophilic doping protocol enhances every aspect of the system:
 
-| Component | Standard | Doped | Improvement |
-|-----------|----------|-------|-------------|
-| Ground thermal charging | 30-50°C | 50-70°C | +20°C |
-| Heat pump COP | 5-6 | 6-8+ | +30% efficiency |
-| ORC differential | 40-50°C | 60-75°C | +50% power |
-| TEG output | Marginal | Viable | Now practical |
-| Composting speed | 12-18 months | 6-9 months | 2x faster turnover |
+| Component               | Standard     | Doped      | Improvement        |
+|-------------------------|--------------|------------|--------------------|
+| Ground thermal charging | 30-50°C      | 50-70°C    | +20°C              |
+| Heat pump COP           | 5-6          | 6-8+       | +30% efficiency    |
+| ORC differential        | 40-50°C      | 60-75°C    | +50% power         |
+| TEG output              | Marginal     | Viable     | Now practical      |
+| Composting speed        | 12-18 months | 6-9 months | 2x faster turnover |
 
 The faster composting also means **twice the throughput**—more compost sales, more heat cycles per year.
 
@@ -613,12 +613,12 @@ At 90°C+, the doped pile becomes viable for **Organic Rankine Cycle (ORC)** ele
 
 **Why ORC beats alternatives at this temperature:**
 
-| Technology | Complexity | Efficiency at 90°C | Verdict |
-|------------|------------|-------------------|---------|
-| TEGs | Low | 3-5% | Marginal output |
-| Stirling | High | 10-15% | Expensive, finicky |
-| Vacuum steam | Medium | 8-12% | Leak-prone |
-| **ORC** | Medium | **8-15%** | **Proven, commercial** |
+| Technology   | Complexity | Efficiency at 90°C | Verdict                |
+|--------------|------------|--------------------|------------------------|
+| TEGs         | Low        | 3-5%               | Marginal output        |
+| Stirling     | High       | 10-15%             | Expensive, finicky     |
+| Vacuum steam | Medium     | 8-12%              | Leak-prone             |
+| **ORC**      | Medium     | **8-15%**          | **Proven, commercial** |
 
 **How ORC works:**
 - Working fluid (isopentane, R245fa) boils at 28-36°C
@@ -774,10 +774,10 @@ Counter-intuitively, the Hot Rot Engine performs BETTER in cold climates like Ma
 
 **Larger Temperature Differential:**
 
-| Season | Pile Temp | Ambient | ΔT | Efficiency |
-|--------|-----------|---------|-----|------------|
-| Summer | 70°C | 25°C | 45°C | Baseline |
-| Winter | 70°C | -10°C | 80°C | **78% better ΔT** |
+| Season | Pile Temp | Ambient | ΔT   | Efficiency        |
+|--------|-----------|---------|------|-------------------|
+| Summer | 70°C      | 25°C    | 45°C | Baseline          |
+| Winter | 70°C      | -10°C   | 80°C | **78% better ΔT** |
 
 Larger ΔT means:
 - Heat pump works more efficiently (higher COP)
@@ -845,23 +845,23 @@ For power output beyond a single household, modular scaling with multiple domed 
 
 **Why modular beats monolithic:**
 
-| Factor | Single Large Pile | Multiple Domed Piles |
-|--------|-------------------|---------------------|
-| Dome engineering | Impractical above ~75m³ | Each dome remains simple |
-| Biogas capture | Hard to seal large volumes | Individual sealed domes |
-| Oxygen delivery | Anaerobic core develops | Each pile breathes properly |
-| Failure resilience | Total system failure risk | Redundancy built-in |
-| Harvest scheduling | One big disruption | Staggered, continuous |
-| Heat continuity | Peaks and valleys | Always one pile at peak |
+| Factor             | Single Large Pile          | Multiple Domed Piles        |
+|--------------------|----------------------------|-----------------------------|
+| Dome engineering   | Impractical above ~75m³    | Each dome remains simple    |
+| Biogas capture     | Hard to seal large volumes | Individual sealed domes     |
+| Oxygen delivery    | Anaerobic core develops    | Each pile breathes properly |
+| Failure resilience | Total system failure risk  | Redundancy built-in         |
+| Harvest scheduling | One big disruption         | Staggered, continuous       |
+| Heat continuity    | Peaks and valleys          | Always one pile at peak     |
 
 **Scaling targets:**
 
-| Configuration | Total Volume | Thermal Output | ORC Electrical | Powers |
-|---------------|--------------|----------------|----------------|--------|
-| 2 × 50m³ | 100m³ | ~30 kW | ~3.6 kW | 2 houses |
-| 4 × 50m³ | 200m³ | ~60 kW | ~7.2 kW | 4 houses |
-| 6 × 50m³ | 300m³ | ~90 kW | ~10.8 kW | 6 houses |
-| 8 × 50m³ | 400m³ | ~120 kW | ~14.4 kW | Small farm |
+| Configuration | Total Volume | Thermal Output | ORC Electrical | Powers     |
+|---------------|--------------|----------------|----------------|------------|
+| 2 × 50m³      | 100m³        | ~30 kW         | ~3.6 kW        | 2 houses   |
+| 4 × 50m³      | 200m³        | ~60 kW         | ~7.2 kW        | 4 houses   |
+| 6 × 50m³      | 300m³        | ~90 kW         | ~10.8 kW       | 6 houses   |
+| 8 × 50m³      | 400m³        | ~120 kW        | ~14.4 kW       | Small farm |
 
 **Staggered cycling for continuous output:**
 
@@ -905,11 +905,11 @@ Ground loops under each pile connect to a shared manifold, feeding one central O
 
 **Equipment requirements at scale:**
 
-| Scale | Management | Equipment Needed |
-|-------|------------|------------------|
-| 1-2 piles | Manual | Wheelbarrow, pitchfork, compost thermometer |
-| 3-4 piles | Semi-mechanized | Small tractor or skid steer, front bucket |
-| 5+ piles | Mechanized | Dedicated compost turner, larger tractor |
+| Scale     | Management      | Equipment Needed                            |
+|-----------|-----------------|---------------------------------------------|
+| 1-2 piles | Manual          | Wheelbarrow, pitchfork, compost thermometer |
+| 3-4 piles | Semi-mechanized | Small tractor or skid steer, front bucket   |
+| 5+ piles  | Mechanized      | Dedicated compost turner, larger tractor    |
 
 **Site planning:**
 
@@ -921,13 +921,13 @@ Ground loops under each pile connect to a shared manifold, feeding one central O
 
 **Economics at 4-pile scale (200m³ total):**
 
-| Revenue/Savings | Annual Value |
-|-----------------|--------------|
-| Electricity (7 kW × 8000 hrs × $0.12) | $6,700 |
-| Heat savings (offset propane/oil) | $2,000-4,000 |
-| Compost sales (200+ yards @ $40) | $8,000+ |
-| Tipping fees avoided | $2,000-5,000 |
-| **Total value** | **$18,700-23,700/year** |
+| Revenue/Savings                       | Annual Value            |
+|---------------------------------------|-------------------------|
+| Electricity (7 kW × 8000 hrs × $0.12) | $6,700                  |
+| Heat savings (offset propane/oil)     | $2,000-4,000            |
+| Compost sales (200+ yards @ $40)      | $8,000+                 |
+| Tipping fees avoided                  | $2,000-5,000            |
+| **Total value**                       | **$18,700-23,700/year** |
 
 Payback on ORC equipment (4 kW @ $4,000/kW = $16,000) in under one year from electricity alone.
 
@@ -1013,6 +1013,32 @@ These concepts are released to the public domain for the benefit of humanity. Ma
 ---
 
 ## References
+
+### In Memory of Jean Pain (1928-1981)
+
+Jean Pain was a Swiss-born French inventor who achieved complete energy independence from composting brushwood in the 1970s - before affordable solar panels, before carbon credits, before anyone was talking about climate change.
+
+A butcher's son who hated butchering, he wandered through life as a market porter, goat herder, and eventually woodland guardian in Provence. When he couldn't afford straw for his garden, he composted the brushwood he was clearing anyway. The results were spectacular.
+
+He didn't stop at compost. He built a complete system:
+- 200 meters of pipe through the mound producing 4 liters/minute of 60°C hot water
+- Methane digester producing 500 cubic meters of biogas (enough for a year of cooking)
+- Generator charging batteries for household electricity
+- Even ran his car on the biogas
+
+100% energy independence. From a pile of brushwood. In the 1970s.
+
+He was awarded the Knight of the Order of Agriculture in 1976. His book sold 70,000 copies. Eight French municipalities adopted his system. Followers emerged in Australia, the US, Tunisia, Latin America, and Japan.
+
+Then he died in 1981, at 52. And the world mostly forgot.
+
+This document exists because Jean Pain proved the concept works. We're just adding 45 years of science, economics, and optimization to his foundation.
+
+The Hot Rot Engine is his torch, carried forward.
+
+*Merci, Jean. On continue ton travail.*
+
+---
 
 1. Jean Pain - Wikipedia. https://en.wikipedia.org/wiki/Jean_Pain
 
