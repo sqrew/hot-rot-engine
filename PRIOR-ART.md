@@ -430,6 +430,98 @@ Hyperthermophilic piles require additional precautions:
 - **Accelerated decomposition**—may need to add feedstock more frequently
 - **Pathogen destruction**—95°C exceeds all sanitation requirements (bonus!)
 
+### Scaling Considerations: The Modular Farm
+
+For power output beyond a single household, modular scaling with multiple domed piles is recommended over single large piles.
+
+**Why modular beats monolithic:**
+
+| Factor | Single Large Pile | Multiple Domed Piles |
+|--------|-------------------|---------------------|
+| Dome engineering | Impractical above ~75m³ | Each dome remains simple |
+| Biogas capture | Hard to seal large volumes | Individual sealed domes |
+| Oxygen delivery | Anaerobic core develops | Each pile breathes properly |
+| Failure resilience | Total system failure risk | Redundancy built-in |
+| Harvest scheduling | One big disruption | Staggered, continuous |
+| Heat continuity | Peaks and valleys | Always one pile at peak |
+
+**Scaling targets:**
+
+| Configuration | Total Volume | Thermal Output | ORC Electrical | Powers |
+|---------------|--------------|----------------|----------------|--------|
+| 2 × 50m³ | 100m³ | ~30 kW | ~3.6 kW | 2 houses |
+| 4 × 50m³ | 200m³ | ~60 kW | ~7.2 kW | 4 houses |
+| 6 × 50m³ | 300m³ | ~90 kW | ~10.8 kW | 6 houses |
+| 8 × 50m³ | 400m³ | ~120 kW | ~14.4 kW | Small farm |
+
+**Staggered cycling for continuous output:**
+
+Start each pile 2-4 weeks apart. When properly staggered:
+- Always 1-2 piles at peak hyperthermophilic temps (90°C+)
+- Always 1-2 piles in active thermophilic phase (65-80°C)
+- Always 1-2 piles in late maturation (ready for harvest)
+- Always 1-2 piles freshly built (ramping up)
+
+```
+WEEK:    0   2   4   6   8   10  12  14  16  18  20  22  24
+PILE A: [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░][▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]
+PILE B:     [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░][▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]
+PILE C:         [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░][▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]
+PILE D:             [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░][▓▓▓▓▓▓▓▓▓▓▓▓░░░░]
+
+▓ = active heat production  ░ = maturation/cooling
+```
+
+Result: Continuous thermal output to shared ORC system.
+
+**Underground infrastructure layout:**
+
+```
+        [PILE A]        [PILE B]        [PILE C]        [PILE D]
+            ↓               ↓               ↓               ↓
+    ════════╬═══════════════╬═══════════════╬═══════════════╬════════
+            ║               ║               ║               ║
+            └───────────────┴───────┬───────┴───────────────┘
+                                    ↓
+                          [HEAT EXCHANGER]
+                                    ↓
+                              [ORC UNIT]
+                                    ↓
+                          [ELECTRICAL PANEL]
+                                    ↓
+                    [GRID TIE / BATTERY / DIRECT USE]
+```
+
+Ground loops under each pile connect to a shared manifold, feeding one central ORC system. This maximizes equipment utilization—the ORC runs continuously rather than cycling with a single pile.
+
+**Equipment requirements at scale:**
+
+| Scale | Management | Equipment Needed |
+|-------|------------|------------------|
+| 1-2 piles | Manual | Wheelbarrow, pitchfork, compost thermometer |
+| 3-4 piles | Semi-mechanized | Small tractor or skid steer, front bucket |
+| 5+ piles | Mechanized | Dedicated compost turner, larger tractor |
+
+**Site planning:**
+
+- Allow 3-4m spacing between piles for equipment access
+- Orient rows for prevailing wind (aids passive aeration)
+- Locate ORC/heat exchanger centrally to minimize pipe runs
+- Plan for compost curing area (finished product staging)
+- Consider feedstock storage and carbon material bins
+
+**Economics at 4-pile scale (200m³ total):**
+
+| Revenue/Savings | Annual Value |
+|-----------------|--------------|
+| Electricity (7 kW × 8000 hrs × $0.12) | $6,700 |
+| Heat savings (offset propane/oil) | $2,000-4,000 |
+| Compost sales (200+ yards @ $40) | $8,000+ |
+| Tipping fees avoided | $2,000-5,000 |
+| **Total value** | **$18,700-23,700/year** |
+
+Payback on ORC equipment (4 kW @ $4,000/kW = $16,000) in under one year from electricity alone.
+
 ### References for Hyperthermophilic Protocol
 
 - "Synergistic hyperthermophilic microbial consortia in self-elevating ultra-high temperature composting" - ScienceDirect (2025)
@@ -462,6 +554,10 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 17. ORC (Organic Rankine Cycle) electricity generation from hyperthermophilic compost at 90°C+
 18. Winter-optimized ORC operation exploiting larger temperature differential in cold climates
 19. Cellulose recyclables (cardboard, paper, shredding) as thermophile feedstock for enhanced heat output
+20. Modular multi-pile scaling with individual domes rather than single large pile
+21. Staggered pile cycling for continuous thermal output to shared ORC system
+22. Underground grid manifold connecting multiple pile heat loops to central ORC
+23. Site planning for modular compost-to-power farm layout
 
 ---
 
