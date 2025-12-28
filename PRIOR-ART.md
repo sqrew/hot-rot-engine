@@ -317,9 +317,115 @@ THE HOT ROT ENGINE generates value through multiple streams:
 | Heat savings (offset home heating) | $500-1,000 |
 | Electricity (ORC, if installed) | $500-2,500 |
 | Biogas value | $200-500 |
-| **TOTAL** | **$3,700-7,000/year** |
+| Tipping fees (accepting waste) | $500-2,000 |
+| **Carbon credits** | **$300-4,500** |
+| **TOTAL** | **$4,500-13,500/year** |
 
 From materials that would otherwise decompose unused.
+
+### 9. Carbon Credit Integration
+
+Composting generates verifiable carbon credits through multiple mechanisms. This transforms the Hot Rot Engine from a heating/power system into a **climate finance asset**.
+
+#### Carbon Credit Pathways
+
+**A. Avoided Methane Emissions**
+
+Organic waste in landfills decomposes anaerobically, producing methane (CH₄). Methane has **84x the warming potential** of CO₂ over 20 years.
+
+Composting diverts this waste to aerobic decomposition, which produces CO₂ instead of CH₄. The difference is creditable.
+
+| Metric | Value |
+|--------|-------|
+| CH₄ avoided per ton organic waste | ~50-100 kg |
+| CO₂e credit per ton diverted | 0.5-1.0 tons |
+| Credit value (@ $30-150/ton) | $15-150 per ton feedstock |
+
+**B. Soil Carbon Sequestration**
+
+Finished compost applied to soil creates stable humus that locks carbon for decades to centuries.
+
+| Metric | Value |
+|--------|-------|
+| Carbon retained per ton compost | ~200-400 kg |
+| Sequestration duration | 20-100+ years |
+| CO₂e credit per ton compost | 0.7-1.5 tons |
+| Credit value (@ $30-150/ton) | $20-225 per ton compost |
+
+**C. Biochar Enhancement (Premium Credits)**
+
+Adding biochar to the compost blend creates **permanent** carbon sequestration (1000+ years). Biochar credits are among the highest-value carbon offsets.
+
+| Metric | Value |
+|--------|-------|
+| Biochar carbon stability | 1000+ years |
+| CO₂e credit per ton biochar | 2.5-3.0 tons |
+| Premium credit value | $100-200+ per ton biochar |
+
+**Note:** Biochar production requires a separate pyrolysis process, but integrates well with the Hot Rot Engine—excess woody material can be charred, then blended into final compost.
+
+#### Credit Markets and Verification
+
+**Voluntary Markets:**
+- Verra (VCS - Verified Carbon Standard)
+- Gold Standard
+- Puro.earth (specializes in biochar)
+- Nori (soil carbon focus)
+
+**Compliance Markets:**
+- California Cap-and-Trade (if scaled)
+- EU ETS (European operations)
+- Regional programs vary
+
+**Verification Requirements:**
+- Documented feedstock sources and quantities
+- Temperature/process monitoring logs
+- Final compost application records
+- Third-party verification (for larger operations)
+
+For small-scale operations, voluntary markets like Nori offer simplified verification. At scale, full certification becomes worthwhile.
+
+#### Revenue Projections with Carbon Credits
+
+**Single 50m³ pile (homestead scale):**
+
+| Revenue Stream | Low Est. | High Est. |
+|----------------|----------|-----------|
+| Compost sales | $2,500 | $3,000 |
+| Heat savings | $500 | $1,000 |
+| Electricity (ORC) | $500 | $2,500 |
+| Biogas | $200 | $500 |
+| Tipping fees | $500 | $2,000 |
+| Carbon credits | $300 | $4,500 |
+| **TOTAL** | **$4,500** | **$13,500/year** |
+
+**4-pile modular farm (200m³ total):**
+
+| Revenue Stream | Low Est. | High Est. |
+|----------------|----------|-----------|
+| Compost sales | $8,000 | $12,000 |
+| Heat/electricity | $4,000 | $10,000 |
+| Tipping fees | $2,000 | $8,000 |
+| Carbon credits | $1,200 | $18,000 |
+| **TOTAL** | **$15,200** | **$48,000/year** |
+
+#### Strategic Considerations
+
+**Stacking credits:**
+Some pathways can be "stacked" (claimed simultaneously), others cannot. Avoided emissions + sequestration is often stackable. Check specific program rules.
+
+**Documentation is everything:**
+Keep meticulous records of:
+- Feedstock sources, types, and weights
+- Process temperatures and durations
+- Compost application locations and quantities
+- Any biochar additions
+
+**Start simple, scale verification:**
+For first piles, document everything but don't worry about formal certification. As you scale, the paperwork becomes worthwhile.
+
+**Local regulations:**
+Some jurisdictions have composting regulations. Check before accepting external waste streams.
 
 ---
 
@@ -767,6 +873,11 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 38. Combined multi-modal stimulation protocol (quorum sensing + electro-stim + acoustic) for maximum metabolic enhancement
 39. Solar-powered electrode system integrated with compost thermal infrastructure
 40. Selection pressure for electroactive thermophiles via sustained electrical stimulation
+41. Carbon credit integration via avoided methane emissions from diverted organic waste
+42. Soil carbon sequestration credits from compost application
+43. Biochar-enhanced compost for premium permanent carbon sequestration credits
+44. Stacked carbon credit methodology (avoided emissions + sequestration from single operation)
+45. Integrated documentation system for carbon credit verification (feedstock tracking, temperature logs, application records)
 
 ---
 
