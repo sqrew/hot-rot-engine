@@ -4,7 +4,7 @@
 ---
 
 **Document Type:** Prior Art Technical Disclosure
-**Date of Publication:** December 27, 2025
+**Date of Publication:** December 27, 2025 (updated December 28, 2025)
 **Status:** PUBLIC DOMAIN
 
 ---
@@ -36,7 +36,8 @@ Key innovations include:
 2. Ground-as-thermal-battery for heat pump integration
 3. Consumable insulation design where dome materials become sellable product
 4. TEG thermal separator walls between hot and cold ground zones
-5. Multi-revenue model combining heat extraction, biogas capture, and compost sales
+5. Buried passive aeration with thermostatic damper control
+6. Multi-revenue model combining heat extraction, biogas capture, and compost sales
 
 ---
 
@@ -203,7 +204,68 @@ Captured biogas can:
 - Boost heat via combustion
 - Power an ORC system's hot side
 
-### 6. Organic Rankine Cycle (ORC) Integration
+### 6. Buried Passive Aeration System
+
+A critical enhancement: passive oxygen delivery without breaking the decoupled architecture.
+
+**The Problem:**
+Aerobic composting requires oxygen. Traditional methods involve turning the pile (labor) or embedding aeration pipes IN the pile (breaks decoupling). How do we deliver air without touching the pile?
+
+**The Solution:**
+Bury perforated aeration tubes alongside the heat capture pipes. Air enters from the perimeter, rises through the gravel bed, and disperses into the pile bottom.
+
+```
+[COMPOST PILE - hot, creates updraft]
+        ↑ exhaust rises out
+════════════════════════════════════════
+[GRAVEL/SAND BED - already installed for pipe burial]
+        ↑ air disperses upward into pile
+[BURIED INFRASTRUCTURE ZONE]
+        ├── Heat capture pipes (closed loop, liquid)
+        └── Aeration tubes (perforated, open to atmosphere at edges)
+              ↑
+[FRESH AIR ENTERS FROM PERIMETER INTAKES]
+```
+
+**Key insight:** The gravel/sand bed used for pipe burial already exists. It serves double duty as the air distribution layer. Minimal additional work.
+
+**Thermostatic Damper Control:**
+
+Constant airflow = constant heat loss. We need to throttle aeration when the pile is hot enough.
+
+Solution: **Thermostatic wax motor actuators** at perimeter air intakes.
+
+- Opens below ~70°C (pile needs oxygen, not hot enough)
+- Closes above ~70°C (pile is cooking, conserve heat)
+- No power required - passive bimetallic/wax expansion
+- Self-regulating feedback loop
+- Proven technology from greenhouse vent industry (~$20-40 each)
+
+```
+[PERIMETER AIR INTAKE]
+    │
+    ├── Thermostatic actuator (wax motor)
+    │   └── CLOSES when temp > 70°C
+    │   └── OPENS when temp < 70°C
+    │
+    └── Damper flap
+```
+
+**Benefits:**
+- Maintains decoupled architecture (nothing IN the pile)
+- Reduces or eliminates need to turn for oxygen
+- Self-regulating based on actual pile temperature
+- No power, no electronics, no moving parts (except damper)
+- Gravel bed already part of standard installation
+- Hotter pile = stronger draft = more oxygen (positive feedback)
+- Dampers prevent heat loss when aeration sufficient
+
+**Materials:**
+- Perforated PVC or corrugated drainage pipe (same as used for French drains)
+- Thermostatic wax motor actuators (greenhouse supply)
+- Simple damper flaps (sheet metal or plastic)
+
+### 7. Organic Rankine Cycle (ORC) Integration
 
 For electricity generation, an ORC system can harvest the thermal differential:
 
@@ -214,7 +276,7 @@ For electricity generation, an ORC system can harvest the thermal differential:
 
 Winter optimization: Colder ambient temperatures increase differential, improving efficiency precisely when heating demand is highest.
 
-### 7. Multi-Revenue Business Model
+### 8. Multi-Revenue Business Model
 
 THE HOT ROT ENGINE generates value through multiple streams:
 
@@ -558,6 +620,12 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 21. Staggered pile cycling for continuous thermal output to shared ORC system
 22. Underground grid manifold connecting multiple pile heat loops to central ORC
 23. Site planning for modular compost-to-power farm layout
+24. Buried passive aeration system decoupled from compost pile using perforated tubes alongside heat capture pipes
+25. Dual-purpose gravel/sand bed serving both pipe burial medium and air distribution layer
+26. Thermostatic wax motor damper control on passive aeration intakes
+27. Self-regulating oxygen delivery based on pile temperature (~70°C threshold)
+28. Chimney-effect driven passive airflow requiring no fans or power
+29. Integration of passive aeration infrastructure with ground thermal storage zone
 
 ---
 
