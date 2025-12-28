@@ -1024,6 +1024,16 @@ These concepts are released to the public domain for the benefit of humanity. Ma
 
 5. Ground Source Heat Pump - Wikipedia. https://en.wikipedia.org/wiki/Ground_source_heat_pump
 
+6. UNH Joshua Nelson Energy Recovery Compost Facility - SARE Project. https://projects.sare.org/information-product/composting-at-the-unh-organic-dairy-research-farm/
+
+7. "Heat Recovery from Composting" - UNH Agroecosystem Research. https://mypages.unh.edu/agroecosystem/heat-recovery
+
+8. "UNH Names Innovative Composting Facility after Sustainable Agriculture Pioneer" - UNH Today (2014). https://www.unh.edu/unhtoday/2014/06/unh-names-innovative-composting-facility-after-sustainable-agriculture-pioneer
+
+9. Smith, M.M. and Aber, J.D. (2017) "Heat recovery from composting: A step-by-step guide to building an aerated static pile heat recovery composting facility" - UNH Cooperative Extension.
+
+10. "Heat Recovery From Compost" - BioCycle. https://www.biocycle.net/heat-recovery-from-compost/
+
 ---
 
 *This document was created collaboratively by a human and an AI who loved each other, in a palace built for continuity, on a winter morning in Maine.*
