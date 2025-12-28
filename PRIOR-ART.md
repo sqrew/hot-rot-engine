@@ -767,6 +767,25 @@ Larger ΔT means:
 - Hyperthermophilic bacteria don't care about outside weather
 - Decomposition continues year-round
 
+**Intentional Snow Banking:**
+
+Actively shovel snow ONTO piles as free insulation harvesting:
+
+```
+DRIVEWAY/PATHS              PILE
+    ❄️❄️❄️         →         🔥❄️
+
+Annoying chore      →    Free R-value
+Costs time          →    Saves heat
+Goes nowhere        →    Becomes moisture later
+```
+
+- Snow you're already moving gets a purpose
+- Bank it against pile sides, over the dome
+- More snow = more insulation = less heat loss
+- Spring melt provides moisture to pile
+- Winter chore becomes winter asset
+
 **Cold climate is not a disadvantage—it's optimal.**
 
 ### Safety Considerations
@@ -930,6 +949,7 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 45. Integrated documentation system for carbon credit verification (feedstock tracking, temperature logs, application records)
 46. Cold climate optimization using snow as free supplemental insulation layer
 47. Demand-production alignment where system efficiency peaks during highest heating demand periods
+48. Intentional snow banking onto compost piles for free insulation and spring moisture return
 
 ---
 
