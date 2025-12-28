@@ -136,6 +136,58 @@ All potentially FREE or paid to take:
 6. [ ] Build first pile (start small, learn)
 7. [ ] Document EVERYTHING (for carbon credits later)
 
+* Scaling Vision - How Big Could This Get?
+
+** Level 1: Homestead (Starting Point)
+- 1-2 piles
+- $5,000-15,000/year
+- Heat your home
+- Side income
+- Learn the system
+
+** Level 2: Small Farm
+- 4-8 piles, staggered cycling
+- $20,000-50,000/year
+- ORC electricity makes sense now
+- Full-time income for 1-2 people
+- Local waste contracts (restaurants, farms, landscapers)
+
+** Level 3: Commercial Operation
+- 20+ piles
+- $100,000-250,000/year
+- Employees
+- Municipal waste contracts
+- Serious carbon credit portfolio
+- District heating potential (sell heat to neighbors)
+
+** Level 4: Municipal Partnership
+- City-scale organic waste processing
+- Integration with wastewater treatment plants
+- District heating grid connection
+- Megawatt-scale ORC installation
+- $500,000+/year
+- This is an actual utility company now
+
+** Level 5: The Template
+- License the DESIGN (public domain, but consulting isn't)
+- "Hot Rot Engine Certified" installations
+- Training programs and certification courses
+- Write THE book on optimized compost thermal harvesting
+- Become the Jean Pain of the 2020s
+- Speaking engagements, climate conferences
+- "I Got Rich Playing EDM to Cow Shit: A Comprehensive Thermal Strategy"
+
+** The Difference
+
+Jean Pain (1970s): "Stick a pipe in it, let it cook"
+
+Hot Rot Engine (2025): Understanding microbiology, thermodynamics,
+economics, carbon markets, and bacteria psychology - integrated into
+a single optimized system with 45+ documented innovations.
+
+That's the difference between a guy with a horse and the guy who
+invented the internal combustion engine.
+
 * Reference
 
 Full technical documentation: [[file:PRIOR-ART.md][PRIOR-ART.md]]
