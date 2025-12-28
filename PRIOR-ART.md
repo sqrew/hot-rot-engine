@@ -366,6 +366,61 @@ The hyperthermophilic doping protocol enhances every aspect of the system:
 
 The faster composting also means **twice the throughput**—more compost sales, more heat cycles per year.
 
+### ORC Integration at Hyperthermophilic Temperatures
+
+At 90°C+, the doped pile becomes viable for **Organic Rankine Cycle (ORC)** electricity generation—a significant upgrade from marginal TEG output.
+
+**Why ORC beats alternatives at this temperature:**
+
+| Technology | Complexity | Efficiency at 90°C | Verdict |
+|------------|------------|-------------------|---------|
+| TEGs | Low | 3-5% | Marginal output |
+| Stirling | High | 10-15% | Expensive, finicky |
+| Vacuum steam | Medium | 8-12% | Leak-prone |
+| **ORC** | Medium | **8-15%** | **Proven, commercial** |
+
+**How ORC works:**
+- Working fluid (isopentane, R245fa) boils at 28-36°C
+- Hot compost (90°C) vaporizes the fluid
+- Vapor drives turbine → electricity
+- Condenser (ambient air) returns fluid to liquid
+- Sealed loop, like a refrigerator running backwards
+
+**System integration:**
+
+```
+DOPED COMPOST @ 90°C
+        ↓
+[WATER JACKET / GROUND THERMAL]
+        ↓
+[HEAT EXCHANGER] → ORC evaporator
+        ↓
+[ORC TURBINE] → generator → 5-15 kW electrical
+        ↓
+[AIR-COOLED CONDENSER] → ambient (colder = better)
+        ↓
+[PUMP] → back to evaporator (closed loop)
+```
+
+**Winter optimization:**
+- Colder ambient = larger ΔT = higher efficiency
+- At 90°C hot / -10°C cold: ΔT = 100°C, Carnot limit ~27%
+- Real ORC efficiency: 12-18% achievable
+
+**Commercial availability:**
+- Small-scale ORC units (1-50 kW) exist for industrial waste heat
+- Typical cost: $2,000-5,000 per kW installed
+- Payback: 3-7 years depending on electricity prices
+
+**Power output estimate (50 m³ doped pile):**
+- Thermal output: ~15 kW continuous
+- ORC efficiency: 10-12%
+- Electrical output: **1.5-2 kW continuous**
+- Annual generation: ~13,000 kWh
+- Value (@ $0.15/kWh): ~$2,000/year
+
+The ORC turns the Hot Rot Engine from a heating system into a **micro power plant**.
+
 ### Safety Considerations
 
 Hyperthermophilic piles require additional precautions:
@@ -404,6 +459,9 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 14. Use of *Thermus thermophilus*, *Planifilum fulgidum*, and related hyperthermophilic species to enhance thermal output
 15. Staged inoculation at mesophilic peak (50-55°C) to trigger hyperthermophilic transition
 16. Integration of hyperthermophilic doping with ground thermal storage, ORC, and TEG systems
+17. ORC (Organic Rankine Cycle) electricity generation from hyperthermophilic compost at 90°C+
+18. Winter-optimized ORC operation exploiting larger temperature differential in cold climates
+19. Cellulose recyclables (cardboard, paper, shredding) as thermophile feedstock for enhanced heat output
 
 ---
 
