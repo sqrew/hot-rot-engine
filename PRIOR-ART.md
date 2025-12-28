@@ -239,6 +239,48 @@ The methane's chemical energy converts directly to heat fed into the ground ther
 
 A critical enhancement: passive oxygen delivery without breaking the decoupled architecture.
 
+#### Why Passive Instead of Forced Aeration?
+
+Many commercial compost heat recovery systems use **forced aeration** - fans that actively pull hot vapor from the pile for heat exchange. This approach has a fundamental flaw:
+
+**Forced aeration steals heat faster than the pile can generate it.**
+
+```
+FORCED AERATION PROBLEM
+═══════════════════════════════
+    [PILE TRYING TO REACH HYPERTHERMOPHILIC]
+           ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+    [FANS CONSTANTLY EXTRACTING HOT VAPOR]
+
+Result: Pile stuck at 49-56°C (barely thermophilic)
+        Heat extraction throttles heat generation
+        System fights its own biology
+```
+
+Real-world example: The UNH Joshua Nelson Energy Recovery Compost Facility uses forced aeration and reports pile temperatures of only 121-133°F (49-56°C) - well below hyperthermophilic range.
+
+**Our passive approach lets the pile actually cook:**
+
+```
+SELF-REGULATING PASSIVE SYSTEM
+═══════════════════════════════
+Pile temp < 70°C:
+    Dampers OPEN → oxygen flows in → pile heats up
+
+Pile temp > 70°C:
+    Dampers CLOSE → heat retained → pile reaches 80-90°C
+
+Result: Pile achieves hyperthermophilic temps
+        Heat extraction doesn't throttle generation
+        System works WITH the biology
+```
+
+**The thermostatic dampers are key.** They create a feedback loop:
+- Too cool? Open up, get oxygen, heat up.
+- Hot enough? Close down, retain heat, cook harder.
+
+Forced aeration optimizes for **heat extraction**. Passive thermostatic aeration optimizes for **heat generation** - which ultimately produces more extractable heat.
+
 **The Problem:**
 Aerobic composting requires oxygen. Traditional methods involve turning the pile (labor) or embedding aeration pipes IN the pile (breaks decoupling). How do we deliver air without touching the pile?
 
@@ -950,6 +992,7 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 46. Cold climate optimization using snow as free supplemental insulation layer
 47. Demand-production alignment where system efficiency peaks during highest heating demand periods
 48. Intentional snow banking onto compost piles for free insulation and spring moisture return
+49. Self-regulating passive aeration that prioritizes heat generation over heat extraction (vs forced aeration systems)
 
 ---
 
