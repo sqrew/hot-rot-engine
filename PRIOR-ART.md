@@ -514,6 +514,105 @@ DOPED COMPOST @ 90°C
 
 The ORC turns the Hot Rot Engine from a heating system into a **micro power plant**.
 
+### Performance Enhancement Protocols ("Bug Drugs")
+
+Beyond microbial inoculation, several novel stimulation methods can boost thermophilic metabolism:
+
+#### A. Quorum Sensing Enhancement
+
+Bacteria communicate population density via signaling molecules. By adding synthetic signals, we can trick them into "overdrive mode."
+
+**The Science:**
+- Thermophilic bacteria (Deinococcus-Thermus, Firmicutes) possess AI-2 quorum sensing systems
+- AI-2 (Autoinducer-2) is a universal bacterial signal molecule
+- Adding exogenous AI-2 mimics "huge population" signal → metabolic acceleration
+- 2024 studies showed quorum-sensing-enhanced thermophilic agents achieved 82% moisture removal vs controls
+
+**Implementation:**
+- Commercial AI-2 analogs available from biotech suppliers
+- Alternatively: inoculate with high-density starter culture (natural AI-2 source)
+- Apply during mesophilic-to-thermophilic transition (50-55°C)
+
+**Expected effect:** Faster ramp to peak temperature, sustained hyperthermophilic phase
+
+#### B. Electro-Stimulation
+
+Electroactive microorganisms can accept electrons directly from electrodes, boosting metabolism.
+
+**The Science:**
+- "Electro-fermentation" is an established field (50+ years of research)
+- Many thermophiles are electroactive (can accept/donate electrons to electrodes)
+- Direct electron transfer bypasses normal metabolic limitations
+- Low voltage (0.5-1.5V) sufficient for stimulation without electrolysis
+
+**Implementation:**
+```
+[COMPOST PILE]
+      ↓
+[GRAVEL BED WITH ELECTRODES]
+      │
+      ├── Anode (carbon felt, graphite, or stainless steel mesh)
+      ├── Cathode (same materials)
+      └── Low-voltage DC source (solar panel works perfectly)
+          │
+          └── 0.5-1.5V, low amperage
+```
+
+The electrodes can be buried in the gravel bed alongside heat pipes and aeration tubes. Carbon felt or graphite cloth are ideal—conductive, inert, high surface area.
+
+**Potential dual benefit:** Some electroactive bacteria (*Geobacter* species) are also thermophilic. We may be selecting for the hottest performers.
+
+**Expected effect:** Increased metabolic rate, potentially extended thermophilic phase
+
+#### C. Acoustic Stimulation
+
+Sound waves at specific frequencies measurably increase bacterial growth rates.
+
+**The Science:**
+- E. coli exposed to 8kHz at 80dB showed **1.7x biomass** and **2.5x growth rate**
+- Low frequencies (432 Hz, 1-20 Hz) also promote growth
+- *Bacillus* species (key thermophilic composters) respond to sound stimulation
+- Mechanism: mechanical vibration affects ion channel gating, nutrient uptake
+- Bacteria can sense vibrational acceleration and reduce lag time
+
+**Implementation:**
+```
+[DOME]
+   │
+   └── Weatherproof speaker (or transducer on dome surface)
+          │
+          └── Audio source: 8kHz tone, 80dB
+              OR low-frequency sweep (1-20 Hz)
+              OR... music? (some studies used music)
+```
+
+For continuous operation, a simple tone generator + amplifier + weatherproof speaker. Solar-powered for off-grid operation. Transducer mounted on dome transmits vibration directly into pile.
+
+**The absurd version:** Yes, you can literally play music to your compost pile. Classical, electronic, whatever. The bacteria don't judge.
+
+**Expected effect:** Reduced lag phase, faster growth, potentially higher peak temps
+
+#### D. Combined Protocol ("Full Send")
+
+For maximum bug overdrive, combine all three:
+
+1. **Inoculate** with hyperthermophilic consortium + AI-2-producing strains
+2. **Install electrodes** in gravel bed, run 1V DC from solar panel
+3. **Mount acoustic transducer** on dome, run 8kHz tone during ramp-up phase
+4. Standard temperature/moisture monitoring
+
+**Theoretical outcome:** Fastest possible ramp to hyperthermophilic temps, extended peak duration, maximum thermal output.
+
+**Note:** This is speculative optimization. Each method has research support individually, but combined effects are untested. Document results if you try this.
+
+**References:**
+- Quorum sensing in thermophiles: PMID 29954335
+- Thermophilic bacterial agents with enhanced QS: ScienceDirect S0048969724058273
+- Electro-fermentation review: Trends in Biotechnology S0167-7799(16)30028-2
+- Electroactive microorganisms: Nature Reviews Microbiology s41579-019-0173-x
+- Sound effects on E. coli: PMC4830253
+- Acoustic/vibration effects on microbes: PMC11123986, Springer s42269-021-00674-z
+
 ### Safety Considerations
 
 Hyperthermophilic piles require additional precautions:
@@ -660,6 +759,14 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 30. Dome as passive moisture retention system via condensation-drip return (terrarium effect)
 31. Biogas pilot burn with thermal return to ground loop (on-site combustion → heat exchanger → thermal battery)
 32. Dual-function dome providing both gas capture and moisture retention simultaneously
+33. Quorum sensing enhancement via exogenous AI-2 signaling molecules to accelerate thermophilic metabolism
+34. Electro-stimulation of compost via buried electrodes in gravel bed for direct electron transfer to microbes
+35. Low-voltage DC application (0.5-1.5V) to compost system for metabolic enhancement without electrolysis
+36. Acoustic stimulation of thermophilic bacteria via sound waves (8kHz or low-frequency sweep)
+37. Transducer-mounted dome for direct vibration transmission into compost pile
+38. Combined multi-modal stimulation protocol (quorum sensing + electro-stim + acoustic) for maximum metabolic enhancement
+39. Solar-powered electrode system integrated with compost thermal infrastructure
+40. Selection pressure for electroactive thermophiles via sustained electrical stimulation
 
 ---
 
