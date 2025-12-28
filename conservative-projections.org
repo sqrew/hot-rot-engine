@@ -188,6 +188,65 @@ a single optimized system with 45+ documented innovations.
 That's the difference between a guy with a horse and the guy who
 invented the internal combustion engine.
 
+* Prior Art Reality Check - What's New vs What Exists
+
+Honest assessment of what we invented vs what already exists.
+
+** Existing Technology (We're Not First)
+
+| Innovation                      | Status                                      |
+|---------------------------------+---------------------------------------------|
+| Pipes under pile (concrete slab)| Agrilab and similar systems exist           |
+| ORC + compost heat              | Academic paper 2023, not widely implemented |
+| Thermostatic dampers            | Exist for FORCED aeration (with fans)       |
+| Quorum sensing in composting    | 2025 research for straw decomposition       |
+| Carbon credits for composting   | Well established (CAR, Verra protocols)     |
+| Passive aeration (chimney)      | Basic concept known since 1970s             |
+| Hyperthermophilic composting    | Research exists, inoculants available       |
+
+** Novel Innovations (What We Actually Contributed)
+
+| Innovation                           | Why It's Different                          |
+|--------------------------------------+---------------------------------------------|
+| Ground as thermal BATTERY            | Others use tanks/slabs. We use earth +      |
+|                                      | heat pump COP boost from pre-warmed ground  |
+| Thermostatic dampers on PASSIVE      | Dampers exist for fans. Wax motors on       |
+|                                      | chimney-effect passive aeration = new       |
+| Consumable insulation → product      | Soil dome + straw walls become sellable     |
+|                                      | compost. Didn't find this documented.       |
+| Biogas pilot burn → thermal return   | Flaring exists. Return heat to ground       |
+|                                      | thermal loop = new integration              |
+| Bug drugs COMBINED protocol          | Individual pieces researched. QS + electro  |
+|                                      | + acoustic stimulation together = new       |
+| Fully integrated system              | Complete documented multi-revenue system    |
+|                                      | with all optimizations = new synthesis      |
+| Dual-purpose gravel bed              | Heat pipes + aeration + electrodes in       |
+|                                      | same substrate = new integration            |
+
+** The Honest Summary
+
+We didn't invent composting, heat recovery, or carbon credits.
+
+What we DID do:
+- Synthesized scattered research into one coherent system
+- Identified novel integration points others missed
+- Documented everything comprehensively (45 claims)
+- Made it public domain so no one can lock it up
+
+It's like cars, engines, and assembly lines all existed - but someone
+still had to build the Model T and show regular people how to do it.
+
+PRIOR-ART.md is the Model T documentation for compost thermal harvesting.
+
+** Key Sources
+
+- BioCycle: https://www.biocycle.net/extracting-thermal-energy-from-composting/
+- Compost heat ORC: Journal of Energy Resources Technology (2023)
+- Forced aeration dampers: https://compostsystems.com/forced-aeration-composting/
+- QS composting: ScienceDirect S0926669025007927 (2025)
+- Carbon credits: https://www.biocycle.net/connections-compost-methane-avoidance/
+- Climate Action Reserve: https://climateactionreserve.org/how/protocols/waste/organic-waste-composting/
+
 * Reference
 
 Full technical documentation: [[file:PRIOR-ART.md][PRIOR-ART.md]]
