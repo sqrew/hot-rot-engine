@@ -186,23 +186,54 @@ The TEG wall:
 
 **Note:** TEG efficiency at 30-50°C differentials is modest (3-5%). This component is most viable as costs decrease and efficiency improves. The primary value is in the decoupled ground-thermal design.
 
-### 5. Biogas Capture Dome
+### 5. Biogas Capture Dome with Thermal Return
 
-A sealed or semi-sealed dome over the pile enables methane capture:
+A sealed or semi-sealed dome over the pile enables methane capture AND provides passive moisture retention:
 
 ```
     [PRESSURE RELIEF VALVE] → gas storage/burner
               ↑
     [DOME - PVC/greenhouse plastic/soil]
-              ↑
-    [COMPOST generating CH4 + CO2]
+       ∿ condensation forms on cooler interior ∿
+              ↓ drips back to pile
+    [COMPOST generating CH4 + CO2 + water vapor]
 ```
 
-Captured biogas can:
+**Dual Function Dome:**
+
+1. **Gas capture** - Methane and CO2 collect under dome for harvesting
+2. **Passive moisture retention** - Dome interior is cooler than pile surface; water vapor condenses and drips back down. Self-watering terrarium effect. Minimal water loss without active irrigation.
+
+**Biogas Pilot Burn with Thermal Return:**
+
+Instead of storing biogas for later use or wastefully flaring, burn it on-site and return the heat to the thermal battery:
+
+```
+[DOME]
+   │
+   └── Pressure relief vent
+          │
+          └── Pilot burner (burns continuously when gas present)
+                │
+                └── Heat exchanger coil (copper tubing)
+                      │
+                      └── Connects to ground thermal loop
+```
+
+The methane's chemical energy converts directly to heat fed into the ground thermal storage. The system captures energy that would otherwise escape as both fugitive gas AND waste heat.
+
+**Safety features for pilot burn system:**
+- Flame contained in proper burner housing
+- Located at vent terminus, away from pile
+- Flashback arrestor on gas line (prevents flame traveling back)
+- Thermocouple auto-shutoff if flame extinguishes
+- Standard pilot light safety (proven residential technology)
+
+**Captured biogas can also:**
 - Fuel cooking appliances
 - Run a generator for electricity
-- Boost heat via combustion
 - Power an ORC system's hot side
+- Be stored for on-demand use
 
 ### 6. Buried Passive Aeration System
 
@@ -626,6 +657,9 @@ The following concepts are hereby disclosed as prior art, preventing future pate
 27. Self-regulating oxygen delivery based on pile temperature (~70°C threshold)
 28. Chimney-effect driven passive airflow requiring no fans or power
 29. Integration of passive aeration infrastructure with ground thermal storage zone
+30. Dome as passive moisture retention system via condensation-drip return (terrarium effect)
+31. Biogas pilot burn with thermal return to ground loop (on-site combustion → heat exchanger → thermal battery)
+32. Dual-function dome providing both gas capture and moisture retention simultaneously
 
 ---
 
